@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Tungon%20Dugi!%20👋&fontSize=50&fontAlignY=38&animation=twinkling" width="100%" />
   
-  <h3>NLP Researcher | Low-Resource Language Advocate | Tech Explorer</h3>
+  <h3>PhD Scholar in CS & Engg @ NIT Arunachal Pradesh | NLP Researcher | Data Science Enthusiast</h3>
   
   <p align="center">
-    <a href="https://repleeka.github.io/TungonDugi/#home"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
     <a href="https://huggingface.co/repleeka"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-repleeka-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face" /></a>
-    <a href="https://huggingface.co/AI4Tani"><img src="https://img.shields.io/badge/Organization-AI4Tani-0052cc?style=for-the-badge" alt="AI4Tani" /></a>
+    <a href="https://github.com/repleeka"><img src="https://img.shields.io/badge/GitHub-repleeka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://stackoverflow.com/users/11804038/tungon-dugi"><img src="https://img.shields.io/badge/Stack_Overflow-Tungon_Dugi-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+    <a href="https://tungondugi.medium.com/"><img src="https://img.shields.io/badge/Medium-Tungon_Dugi-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   </p>
 
   <a href="https://github.com/repleeka">
@@ -18,28 +19,28 @@
 
 ### 👨‍💻 About Me
 
-I am deeply passionate about Natural Language Processing, specifically focusing on Neural Machine Translation (NMT) and building robust models for low-resource languages. My core work centers on digitizing and preserving the **Tani language family** (including Tagin, Nyishi, Adi, Apatani, Galo, Tawra, and Mising). 
+I am a **Ph.D. Scholar in Computer Science and Engineering** at **NIT Arunachal Pradesh** with a profound passion for Natural Language Processing (NLP) and Machine Learning. My core research focuses on bridging the technological gap for low-resource languages, specifically building and deploying Neural Machine Translation (NMT) systems for the **Tani language family** (Tagin, Nyishi, Tawra, Adi, Apatani, and Galo).
 
-Beyond linguistics, I have a strong interest in recreating real-world spaces digitally. I enjoy exploring 3D scanning technology and digital data conversion to build assets for AI model training and video game environment generation.
+When I'm not compiling parallel corpora or fine-tuning language models, I enjoy writing technical articles on Medium and exploring open-source AI tools. *(Also, Leo Messi for life! 🐐)*
 
-### 🚀 Current Endeavors
+### 🚀 What I'm Working On
 
-- 🧠 **Pioneering NLP for Tani Languages:** Currently developing the very first Masked Language Modelling (MLM) model for the Tagin language.
-- 📊 **Corpus Collection & Project Management:** Leading initiatives to build parallel sentence corpora (e.g., Adi: 30K, Apatani: 20K, Galo: 7.4K sentences) through academic collaborations.
-- ⚙️ **Model Fine-Tuning:** Evaluating and fine-tuning advanced foundational models like `mBART50-m2m` on custom parallel datasets to push the boundaries of translation accuracy.
-- 🌍 **Open Source Ecosystem:** Actively building and deploying models (`eng-tagin-nmt`, `eng-nyi-nmt`) and datasets (`GinLishCorpus`, `Tagin-POS-Corpus`) on Hugging Face.
+- 🧠 **Pioneering NLP for Tani Languages:** Developing Machine Translation models and building the first Masked Language Modelling (MLM) model for the Tagin language.
+- 📊 **Corpus & Datasets:** Actively managing and open-sourcing parallel datasets like the `GinLishCorpus`, `Tagin-POS-Corpus`, and building tools like the `Apatani_Dictionary`.
+- ⚙️ **Model Fine-Tuning & Deployment:** Fine-tuning advanced transformer models like `mBART50` and deploying full-stack translator applications utilizing Streamlit, CTranslate2, and `OpenNMT-py`.
+- 🌍 **Open Source Ecosystem:** Building translating spaces and releasing open-source models (`eng-tagin-nmt`, `eng-nyi-nmt`, `eng-taw-nmt`) on Hugging Face.
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,bash" />
 </p>
 
-- **NLP & LLMs:** BERT, RoBERTa, ModernBERT, mBART, Transformer Architectures
-- **Core Domains:** Neural Machine Translation (NMT), Masked Language Modelling (MLM)
-- **Tech Hobbies:** 3D Scanning, Photogrammetry, Digital Asset Recreation
+- **Core Technologies:** Python, PyTorch, CTranslate2, Jupyter, Streamlit
+- **NLP & AI:** Transformers, Hugging Face ecosystem, OpenNMT-py, mBART, Masked Language Modelling (MLM)
+- **Data Engineering:** Corpus Collection, Web Scraping (e.g., `Crawl4AI`), Data Preprocessing
 
 ---
 
@@ -53,5 +54,5 @@ Beyond linguistics, I have a strong interest in recreating real-world spaces dig
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+for+the+Tani+Languages;Fine-tuning+mBART+and+ModernBERT;Exploring+3D+Scanning+for+Virtual+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=PhD+Scholar+@+NIT+Arunachal+Pradesh;Building+AI+for+Tani+Languages;Fine-tuning+mBART+&+Transformers;Developing+OpenNMT+Applications" alt="Typing SVG" />
 </div>
