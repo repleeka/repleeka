@@ -25,6 +25,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/repleeka/repleeka/main/github-metrics.svg" alt="Metrics Radar Graph" />
+</div>
+
+<br>
+
 ### **About Me**
 
 - **Current Role:** PhD Scholar in Computer Science & Engineering at **National Institute of Technology Arunachal Pradesh**.
