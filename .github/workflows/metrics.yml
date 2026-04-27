@@ -17,9 +17,10 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          # Only display the radar chart (habits) and languages
-          base: ""
+          base: header
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           config_timezone: Asia/Kolkata
