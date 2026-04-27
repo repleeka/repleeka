@@ -107,7 +107,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=repleeka&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=2E95D3&fire=2E95D3&currStreakLabel=2E95D3" alt="GitHub Streak" width="48%" />
 </div>
 
+<br>
 
+### **⚡ Recent Activity**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=500&size=16&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
 </div>
