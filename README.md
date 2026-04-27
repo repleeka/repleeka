@@ -36,6 +36,52 @@
   - Releasing pre-trained NMT models like `eng-tagin-nmt`, `eng-nyi-nmt`, and `eng-taw-nmt` on Hugging Face.
 - **App Development:** Deploying full-stack translator applications leveraging Streamlit, Huggingface Transformers, PyTorch and Python.
 
+### **Featured Huggingface Projects & Models**
+
+<br>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <br>
+        <a href="https://huggingface.co/repleeka/eng-tagin-nmt">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HF Logo">
+        </a>
+        <br><br>
+        <h3><b>Tagin-NMT</b></h3>
+        <br><br>
+        <a href="https://huggingface.co/repleeka/eng-tagin-nmt"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg" alt="Model on HF"></a>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <a href="https://huggingface.co/datasets/repleeka/Tagin-POS-Corpus-v1.0">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HF Logo">
+        </a>
+        <br><br>
+        <h3><b>Tagin-POS-Corpus-v1.0</b></h3>
+        <br><br>
+        <a href="https://huggingface.co/datasets/repleeka/Tagin-POS-Corpus-v1.0"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg" alt="Dataset on HF"></a>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <a href="https://huggingface.co/repleeka/ginlishMT-mbart50-tgj-en-bi">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HF Logo">
+        </a>
+        <br><br>
+        <h3><b>Tagin-mbart50</b></h3>
+        <br><br>
+        <a href="https://huggingface.co/repleeka/ginlishMT-mbart50-tgj-en-bi"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg" alt="Model on HF"></a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ### **Tech Stack & Tools**
 
 <p align="center">
@@ -62,14 +108,14 @@
 </div>
 
 
-### **Just for Fun**
+<!-- ### **Just for Fun**
 
 <div align="center">
   <a href="https://github.com/repleeka"><img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true" alt="Jokes Card" /></a>
   <br>
-  <a href="https://github.com/repleeka"><img src="https://img.shields.io/badge/%F0%9F%94%84_Generate_New_Joke-2E95D3?style=for-the-badge" alt="Generate New Joke Button" /></a>
+  <a href="https://github.com/repleeka"><img src="https://img.shields.io/badge/%F0%9F%94%84_Generate_New_Joke-2E95D3?style=for-ßthe-badge" alt="Generate New Joke Button" /></a>
   
-  <br><br>
+  <br><br> -->
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=500&size=16&pause=3000&color=2E95D3&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
 </div>
