@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Hi%20there,%20I'm%20Tungon%20Dugi!&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Hi%20there,%20I'm%20Tungon%20Dugi!&fontSize=50&fontAlignY=38&animation=rainbow&fontColor=ffffff" width="100%" />
   
   <h3>PhD Scholar in CS & Engg @ NIT Arunachal Pradesh | NLP Researcher</h3>
   
@@ -16,7 +16,7 @@
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" /> About Me
 
@@ -30,7 +30,7 @@ I am a **Ph.D. Scholar in Computer Science and Engineering** at **NIT Arunachal 
 - 🌍 **Open Source Ecosystem:** Building translating spaces and releasing open-source models on Hugging Face.
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack & Tools
 
@@ -47,15 +47,20 @@ I am a **Ph.D. Scholar in Computer Science and Engineering** at **NIT Arunachal 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=repleeka&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=repleeka&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=repleeka&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="repleeka's Trophies" />
+  </a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=PhD+Scholar+@+NIT+Arunachal+Pradesh;Building+AI+for+Tani+Languages;Fine-tuning+mBART+&+Transformers;Developing+OpenNMT+Applications" alt="Typing SVG" />
-</div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Stopwatch" width="25" /> Weekly Coding Stats
+
+```text
+TypeScript    11 hrs 12 mins        ██████████████████▒░░░░░░   73.53 %
+CSS           2 hrs 42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+Markdown      29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Python        19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON          10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
