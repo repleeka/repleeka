@@ -71,7 +71,7 @@
           <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HF Logo">
         </a>
         <br><br>
-        <h3><b>Tagin-mbart50</b></h3>
+        <h3><b>Tagin-mBART</b></h3>
         <br><br>
         <a href="https://huggingface.co/repleeka/ginlishMT-mbart50-tgj-en-bi"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg" alt="Model on HF"></a>
         <br><br>
