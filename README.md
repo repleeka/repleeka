@@ -109,9 +109,6 @@
 
 <br>
 
-### **⚡ Recent Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=500&size=16&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
 </div>
