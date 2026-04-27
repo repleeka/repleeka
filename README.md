@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there!%20I'm%20Tungon%20Dugi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=PhD%20Scholar%20%7C%20NLP%20Researcher&descAlignY=55&descAlign=62" alt="Dynamic Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there!%20I'm%20Tungon%20Dugi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=PhD%20Scholar%20%7C%20NLP%20Researcher&descAlignY=55&descAlign=62&fontColor=ffffff" alt="Dynamic Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=600&size=20&pause=1000&color=2E95D3&center=true&vCenter=true&width=700&lines=Bridging+the+Gap+for+Low-Resource+Languages;Domain+Adaptation+of+PLMs+for+the+Tani+Language+Family;Building+Open++Models+%26+ASR+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Bridging+the+Gap+for+Low-Resource+Languages;Domain+Adaptation+of+PLMs+for+the+Tani+Language+Family;Building+Open++Models+%26+ASR+Systems" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -108,14 +108,6 @@
 </div>
 
 
-<!-- ### **Just for Fun**
-
 <div align="center">
-  <a href="https://github.com/repleeka"><img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true" alt="Jokes Card" /></a>
-  <br>
-  <a href="https://github.com/repleeka"><img src="https://img.shields.io/badge/%F0%9F%94%84_Generate_New_Joke-2E95D3?style=for-ßthe-badge" alt="Generate New Joke Button" /></a>
-  
-  <br><br> -->
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=500&size=16&pause=3000&color=2E95D3&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Google+Sans&weight=500&size=16&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
 </div>
