@@ -10,7 +10,6 @@
   <a href="https://tungondugi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/11804038/tungon-dugi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://nitap.ac.in/"><img src="https://img.shields.io/badge/NIT_Arunachal_Pradesh-0052CC?style=for-the-badge" alt="NIT Arunachal Pradesh" /></a>
-  <a href="mailto:tungondugi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
@@ -22,13 +21,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/repleeka/repleeka/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/repleeka/repleeka/main/github-metrics.svg" alt="Metrics Radar Graph" />
-</div>
-
 <br>
 
 ### **About Me**
