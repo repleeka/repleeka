@@ -1,79 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Hi%20there,%20I'm%20Tungon%20Dugi!&fontSize=50&fontAlignY=38&animation=rainbow&fontColor=ffffff" width="100%" />
-  
-  <h3>PhD Scholar in CS & Engg @ NIT Arunachal Pradesh | NLP Researcher</h3>
-  
-  <p align="center">
-    <a href="https://huggingface.co/repleeka"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-repleeka-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face" /></a>
-    <a href="https://github.com/repleeka"><img src="https://img.shields.io/badge/GitHub-repleeka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://stackoverflow.com/users/11804038/tungon-dugi"><img src="https://img.shields.io/badge/Stack_Overflow-Tungon_Dugi-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-    <a href="https://tungondugi.medium.com/"><img src="https://img.shields.io/badge/Medium-Tungon_Dugi-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there!%20I'm%20Tungon%20Dugi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=PhD%20Scholar%20%7C%20NLP%20Researcher%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=62" alt="Dynamic Header" />
 
-  <a href="https://github.com/repleeka">
-    <img src="https://komarev.com/ghpvc/?username=repleeka&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github&animation=pulse" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=2E95D3&center=true&vCenter=true&width=700&lines=Bridging+the+Gap+for+Low-Resource+Languages;Fine-Tuning+mBART+for+the+Tani+Family;Building+OpenNMT+%26+ASR+Systems;Microarray+Data+Analysis+for+Biomarkers" alt="Typing Animation" />
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.gif" width="100%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" /> About Me
-
-I am a **Ph.D. Scholar in Computer Science and Engineering** at **NIT Arunachal Pradesh** with a profound passion for Natural Language Processing (NLP) and Machine Learning. My core research focuses on bridging the technological gap for low-resource languages, specifically building and deploying Neural Machine Translation (NMT) systems for the **Tani language family** (Tagin, Nyishi, Tawra, Adi, Apatani, and Galo).
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> What I'm Working On
-
-- 🧠 **Pioneering NLP for Tani Languages:** Developing Machine Translation models and building the first Masked Language Modelling (MLM) model for the Tagin language.
-- 📊 **Corpus & Datasets:** Actively managing and open-sourcing parallel datasets like the `GinLishCorpus`, `Tagin-POS-Corpus`, and building tools like the `Apatani_Dictionary`.
-- ⚙️ **Model Fine-Tuning:** Fine-tuning advanced transformer models like `mBART50` and deploying full-stack translator applications utilizing Streamlit, CTranslate2, and `OpenNMT-py`.
-- 🌍 **Open Source Ecosystem:** Building translating spaces and releasing open-source models on Hugging Face.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/NIT_Arunachal_Pradesh-0052CC?style=for-the-badge" alt="NIT Arunachal Pradesh" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=repleeka&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,bash&perline=7" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 </p>
 
-- **Core Technologies:** Python, PyTorch, CTranslate2, Jupyter, Streamlit
-- **NLP & AI:** Transformers, Hugging Face ecosystem, OpenNMT-py, mBART, Masked Language Modelling (MLM)
-- **Data Engineering:** Corpus Collection, Web Scraping (e.g., `Crawl4AI`), Data Preprocessing
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> About Me
 
-<br>
+- 🎓 **Current Role:** PhD Scholar in Computer Science & Engineering at **NIT Arunachal Pradesh**.
+- 🗣️ **Core Focus:** Bridging the linguistic barrier for low-resource languages, with a deep passion for the **Tani language family** (Tagin, Nyishi, Tawra, Adi, Apatani, and Galo).
+- 🔬 **Research & Endeavors:** 
+  - Developing **Neural Machine Translation (NMT)** and **Automatic Speech Recognition (ASR)** systems for unrepresented languages.
+  - Building the first **Masked Language Modelling (MLM)** model for the Tagin language.
+  - Applying Data Science techniques, such as **microarray data analysis** for colon cancer biomarker identification.
+  - Sharing technical insights and `OpenNMT-py` tutorials on [Medium](https://tungondugi.medium.com) and [Stack Overflow](https://stackoverflow.com/users/11804038/tungon-dugi).
+- 🛠️ **Open Source Contributions:** 
+  - Managing parallel datasets like **GinLishCorpus** and **Tagin-POS-Corpus**.
+  - Building and open-sourcing tools such as the **Apatani Dictionary**.
+  - Releasing models like `eng-tagin-nmt`, `eng-nyi-nmt`, and `eng-taw-nmt` on Hugging Face.
+- 💻 **App Development:** Deploying full-stack translator applications leveraging Streamlit, CTranslate2, and OpenNMT-py.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
+</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,ubuntu,git,github,bash,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/OpenNMT--py-333333?style=for-the-badge" alt="OpenNMT-py" />
+  <img src="https://img.shields.io/badge/CTranslate2-0052CC?style=for-the-badge" alt="CTranslate2" />
+  <img src="https://img.shields.io/badge/Transformers-2E95D3?style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/mBART-4B0082?style=for-the-badge" alt="mBART" />
+  <img src="https://img.shields.io/badge/Crawl4AI-FF6F00?style=for-the-badge" alt="Crawl4AI" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Stats & Trophies
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=repleeka&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="repleeka's Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=repleeka&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=repleeka&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=repleeka&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=repleeka&show_icons=true&theme=transparent&hide_border=true&title_color=2E95D3&icon_color=2E95D3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=repleeka&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=2E95D3&fire=2E95D3&currStreakLabel=2E95D3" alt="GitHub Streak" width="48%" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Smile" width="25" height="25" /> Just for Fun
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First+solve+the+problem,+then+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Building+AI+for+Tani+Languages;Make+it+work,+make+it+right,+make+it+fast." alt="Typing Quotes" />
+  <img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true" alt="Jokes Card" />
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=3000&color=2E95D3&center=true&vCenter=true&width=600&lines=%22Language+is+the+road+map+of+a+culture.%22;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22;%22Building+bridges,+one+token+at+a+time.%22" alt="Quote Animation" />
 </div>
